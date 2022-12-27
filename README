@@ -1,1 +1,22 @@
 Here is going to be project about Ribo-seq ncORF in cancer cell lines that can be found in HLA peptidomics. 
+
+In data/:
+Files with AUG-predicted ORFs: 
+
+AUG_dORF_1000_10studies.zip
+AUG_doORF_1000_10studies.csv
+AUG_lncORF_1000_10studies.zip
+AUG_nORF_1000_10studies.zip
+AUG_uORF_1000_10studies.csv
+AUG_uoORF_1000_10studies.csv
+
+File with selected ncORFs: 
+ncORFs_with_global_coo.txt
+
+File with ncORF-encoded peptides containing HLA peptides:
+peptides_found_in_ncORFs.txt 
+
+File with HLA peptides: 
+Novels_forAlla.txt 
+
+Remaning files are subcodon ribo-seq profiles for transcrips with selected ncORFs. 
