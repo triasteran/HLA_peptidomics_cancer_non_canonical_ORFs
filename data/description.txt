@@ -1,1 +1,10 @@
-1
+Files with AUG-predicted ORFs: 
+
+AUG_dORF_1000_10studies.zip
+AUG_doORF_1000_10studies.csv
+AUG_lncORF_1000_10studies.zip
+AUG_nORF_1000_10studies.zip
+AUG_uORF_1000_10studies.csv
+AUG_uoORF_1000_10studies.csv
+
+Remaning files are subcodon ribo-seq profiles. 
