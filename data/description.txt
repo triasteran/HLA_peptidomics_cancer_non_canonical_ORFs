@@ -7,4 +7,13 @@ AUG_nORF_1000_10studies.zip
 AUG_uORF_1000_10studies.csv
 AUG_uoORF_1000_10studies.csv
 
-Remaning files are subcodon ribo-seq profiles. 
+File with selected ncORFs: 
+ncORFs_with_global_coo.txt
+
+File with ncORF-encoded peptides containing HLA peptides:
+peptides_found_in_ncORFs.txt 
+
+File with HLA peptides: 
+Novels_forAlla.txt 
+
+Remaning files are subcodon ribo-seq profiles for transcrips with selected ncORFs. 
